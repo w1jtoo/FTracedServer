@@ -1,3 +1,11 @@
-[19:18:14] [main/ERROR]: Failed to load properties from file: server.properties
-[19:18:14] [main/WARN]: Failed to load eula.txt
-[19:18:14] [main/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
+[05:29:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4332ms or 86 ticks behind
+[05:36:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 82830ms or 1656 ticks behind
+[05:36:22] [Server Watchdog/FATAL]: A single server tick took 60.19 seconds (should be max 0.05)
+[05:36:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9833ms or 196 ticks behind
+[05:36:43] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[05:39:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 124080ms or 2481 ticks behind
+[05:40:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2179ms or 43 ticks behind
+[05:41:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[05:41:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[05:42:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2185ms or 43 ticks behind
+[05:42:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2134ms or 42 ticks behind
